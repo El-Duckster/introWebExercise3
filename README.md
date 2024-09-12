@@ -14,9 +14,8 @@ This is a simple project that demonstrates basic DOM manipulation with JavaScrip
 ## Project Structure
 ├── index.html
 ├── main.js 
-├── style.scss # SCSS file for styling the elements 
-├── vite.config.js # Vite configuration file 
-├── package.json # Project dependencies and scripts 
+├── style.scss 
+├── package.json
 └── README.md
 
 ### Prerequisites
