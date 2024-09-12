@@ -1,10 +1,10 @@
 # introWebExercise3
 
 Exercise#3 in introduction to web developement for Lernia yrkeshögskola
-Teacher: Andreas
+Teacher: Andreas Ohlsson
 
 
-This is a simple project that demonstrates basic DOM manipulation with JavaScript as, using Vite as the build tool. The project includes dynamically created HTML elements, SCSS styling, and a toggle function that changes text and color when interacting with a button.
+This is a simple project that demonstrates basic DOM manipulation with JavaScript, using Vite as the build tool. The project includes dynamically created HTML elements, SCSS styling, and a toggle function that changes text and color when interacting with a button.
 
 ## Features
 
